@@ -25,3 +25,4 @@ This is a basic template for Django projects configured to use Docker Compose, M
 * `make app-logs` - follow the logs in app container
 * `make app-down` - down application and all infrastructure
 * `make app-shell` - go to contenerized interactive shell (bash)
+* `make test`  - test application with pytest
